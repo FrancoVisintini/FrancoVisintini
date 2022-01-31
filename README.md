@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Franco Visintini/h1>
+<h1 align="center">Hi! I'm Franco Visintini</h1>
 <h3 align="center">Full-Stack developer from Argentina</h3>
 
 - 🔭 I’m currently working on **my final project at Herny bootcamp**
